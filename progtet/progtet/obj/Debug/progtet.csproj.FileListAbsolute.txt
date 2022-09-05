@@ -5,3 +5,10 @@ H:\214szft\CSharp214\progtet\progtet\obj\Debug\progtet.csprojAssemblyReference.c
 H:\214szft\CSharp214\progtet\progtet\obj\Debug\progtet.csproj.CoreCompileInputs.cache
 H:\214szft\CSharp214\progtet\progtet\obj\Debug\progtet.exe
 H:\214szft\CSharp214\progtet\progtet\obj\Debug\progtet.pdb
+H:\214szft\aszmo\progtet\progtet\bin\Debug\progtet.exe.config
+H:\214szft\aszmo\progtet\progtet\bin\Debug\progtet.exe
+H:\214szft\aszmo\progtet\progtet\bin\Debug\progtet.pdb
+H:\214szft\aszmo\progtet\progtet\obj\Debug\progtet.csprojAssemblyReference.cache
+H:\214szft\aszmo\progtet\progtet\obj\Debug\progtet.csproj.CoreCompileInputs.cache
+H:\214szft\aszmo\progtet\progtet\obj\Debug\progtet.exe
+H:\214szft\aszmo\progtet\progtet\obj\Debug\progtet.pdb

@@ -1,0 +1,7 @@
+H:\214szft\aszmo\progtet2\progtet2\bin\Debug\progtet2.exe.config
+H:\214szft\aszmo\progtet2\progtet2\bin\Debug\progtet2.exe
+H:\214szft\aszmo\progtet2\progtet2\bin\Debug\progtet2.pdb
+H:\214szft\aszmo\progtet2\progtet2\obj\Debug\progtet2.csprojAssemblyReference.cache
+H:\214szft\aszmo\progtet2\progtet2\obj\Debug\progtet2.csproj.CoreCompileInputs.cache
+H:\214szft\aszmo\progtet2\progtet2\obj\Debug\progtet2.exe
+H:\214szft\aszmo\progtet2\progtet2\obj\Debug\progtet2.pdb
