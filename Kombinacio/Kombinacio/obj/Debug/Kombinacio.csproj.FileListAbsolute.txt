@@ -1,0 +1,7 @@
+H:\214szft\aszmo\Kombinacio\Kombinacio\bin\Debug\Kombinacio.exe.config
+H:\214szft\aszmo\Kombinacio\Kombinacio\bin\Debug\Kombinacio.exe
+H:\214szft\aszmo\Kombinacio\Kombinacio\bin\Debug\Kombinacio.pdb
+H:\214szft\aszmo\Kombinacio\Kombinacio\obj\Debug\Kombinacio.csprojAssemblyReference.cache
+H:\214szft\aszmo\Kombinacio\Kombinacio\obj\Debug\Kombinacio.csproj.CoreCompileInputs.cache
+H:\214szft\aszmo\Kombinacio\Kombinacio\obj\Debug\Kombinacio.exe
+H:\214szft\aszmo\Kombinacio\Kombinacio\obj\Debug\Kombinacio.pdb

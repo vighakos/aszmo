@@ -1,0 +1,7 @@
+H:\214szft\aszmo\Hanoi\Hanoi\bin\Debug\Hanoi.exe.config
+H:\214szft\aszmo\Hanoi\Hanoi\bin\Debug\Hanoi.exe
+H:\214szft\aszmo\Hanoi\Hanoi\bin\Debug\Hanoi.pdb
+H:\214szft\aszmo\Hanoi\Hanoi\obj\Debug\Hanoi.csprojAssemblyReference.cache
+H:\214szft\aszmo\Hanoi\Hanoi\obj\Debug\Hanoi.csproj.CoreCompileInputs.cache
+H:\214szft\aszmo\Hanoi\Hanoi\obj\Debug\Hanoi.exe
+H:\214szft\aszmo\Hanoi\Hanoi\obj\Debug\Hanoi.pdb

@@ -1,0 +1,7 @@
+H:\214szft\aszmo\Csempe\Csempe\bin\Debug\Csempe.exe.config
+H:\214szft\aszmo\Csempe\Csempe\bin\Debug\Csempe.exe
+H:\214szft\aszmo\Csempe\Csempe\bin\Debug\Csempe.pdb
+H:\214szft\aszmo\Csempe\Csempe\obj\Debug\Csempe.csprojAssemblyReference.cache
+H:\214szft\aszmo\Csempe\Csempe\obj\Debug\Csempe.csproj.CoreCompileInputs.cache
+H:\214szft\aszmo\Csempe\Csempe\obj\Debug\Csempe.exe
+H:\214szft\aszmo\Csempe\Csempe\obj\Debug\Csempe.pdb

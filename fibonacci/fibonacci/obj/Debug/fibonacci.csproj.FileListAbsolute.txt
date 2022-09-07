@@ -1,0 +1,7 @@
+H:\214szft\aszmo\fibonacci\fibonacci\bin\Debug\fibonacci.exe.config
+H:\214szft\aszmo\fibonacci\fibonacci\bin\Debug\fibonacci.exe
+H:\214szft\aszmo\fibonacci\fibonacci\bin\Debug\fibonacci.pdb
+H:\214szft\aszmo\fibonacci\fibonacci\obj\Debug\fibonacci.csproj.CoreCompileInputs.cache
+H:\214szft\aszmo\fibonacci\fibonacci\obj\Debug\fibonacci.exe
+H:\214szft\aszmo\fibonacci\fibonacci\obj\Debug\fibonacci.pdb
+H:\214szft\aszmo\fibonacci\fibonacci\obj\Debug\fibonacci.csprojAssemblyReference.cache

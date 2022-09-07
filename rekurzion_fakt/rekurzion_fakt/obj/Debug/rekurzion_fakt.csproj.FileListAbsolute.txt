@@ -1,0 +1,7 @@
+H:\214szft\aszmo\rekurzion_fakt\rekurzion_fakt\bin\Debug\rekurzion_fakt.exe.config
+H:\214szft\aszmo\rekurzion_fakt\rekurzion_fakt\bin\Debug\rekurzion_fakt.exe
+H:\214szft\aszmo\rekurzion_fakt\rekurzion_fakt\bin\Debug\rekurzion_fakt.pdb
+H:\214szft\aszmo\rekurzion_fakt\rekurzion_fakt\obj\Debug\rekurzion_fakt.csprojAssemblyReference.cache
+H:\214szft\aszmo\rekurzion_fakt\rekurzion_fakt\obj\Debug\rekurzion_fakt.csproj.CoreCompileInputs.cache
+H:\214szft\aszmo\rekurzion_fakt\rekurzion_fakt\obj\Debug\rekurzion_fakt.exe
+H:\214szft\aszmo\rekurzion_fakt\rekurzion_fakt\obj\Debug\rekurzion_fakt.pdb
