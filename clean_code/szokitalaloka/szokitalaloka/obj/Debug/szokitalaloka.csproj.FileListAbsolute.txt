@@ -1,0 +1,10 @@
+H:\214szft\aszmo\clean_code\szokitalaloka\szokitalaloka\bin\Debug\szokitalaloka.exe.config
+H:\214szft\aszmo\clean_code\szokitalaloka\szokitalaloka\bin\Debug\szokitalaloka.exe
+H:\214szft\aszmo\clean_code\szokitalaloka\szokitalaloka\bin\Debug\szokitalaloka.pdb
+H:\214szft\aszmo\clean_code\szokitalaloka\szokitalaloka\obj\Debug\szokitalaloka.csprojAssemblyReference.cache
+H:\214szft\aszmo\clean_code\szokitalaloka\szokitalaloka\obj\Debug\szokitalaloka.Form1.resources
+H:\214szft\aszmo\clean_code\szokitalaloka\szokitalaloka\obj\Debug\szokitalaloka.Properties.Resources.resources
+H:\214szft\aszmo\clean_code\szokitalaloka\szokitalaloka\obj\Debug\szokitalaloka.csproj.GenerateResource.cache
+H:\214szft\aszmo\clean_code\szokitalaloka\szokitalaloka\obj\Debug\szokitalaloka.csproj.CoreCompileInputs.cache
+H:\214szft\aszmo\clean_code\szokitalaloka\szokitalaloka\obj\Debug\szokitalaloka.exe
+H:\214szft\aszmo\clean_code\szokitalaloka\szokitalaloka\obj\Debug\szokitalaloka.pdb

@@ -1,0 +1,7 @@
+H:\214szft\aszmo\20220912vighakos\20220912vighakos\bin\Debug\20220912vighakos.exe.config
+H:\214szft\aszmo\20220912vighakos\20220912vighakos\bin\Debug\20220912vighakos.exe
+H:\214szft\aszmo\20220912vighakos\20220912vighakos\bin\Debug\20220912vighakos.pdb
+H:\214szft\aszmo\20220912vighakos\20220912vighakos\obj\Debug\20220912vighakos.csprojAssemblyReference.cache
+H:\214szft\aszmo\20220912vighakos\20220912vighakos\obj\Debug\20220912vighakos.csproj.CoreCompileInputs.cache
+H:\214szft\aszmo\20220912vighakos\20220912vighakos\obj\Debug\20220912vighakos.exe
+H:\214szft\aszmo\20220912vighakos\20220912vighakos\obj\Debug\20220912vighakos.pdb
