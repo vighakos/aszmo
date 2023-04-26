@@ -1,0 +1,16 @@
+H:\214szft\aszmo\vizsgafeladaattokoa\2022okt\feladatka\feladatka\bin\Debug\net5.0\feladatka.exe
+H:\214szft\aszmo\vizsgafeladaattokoa\2022okt\feladatka\feladatka\bin\Debug\net5.0\feladatka.deps.json
+H:\214szft\aszmo\vizsgafeladaattokoa\2022okt\feladatka\feladatka\bin\Debug\net5.0\feladatka.runtimeconfig.json
+H:\214szft\aszmo\vizsgafeladaattokoa\2022okt\feladatka\feladatka\bin\Debug\net5.0\feladatka.runtimeconfig.dev.json
+H:\214szft\aszmo\vizsgafeladaattokoa\2022okt\feladatka\feladatka\bin\Debug\net5.0\feladatka.dll
+H:\214szft\aszmo\vizsgafeladaattokoa\2022okt\feladatka\feladatka\bin\Debug\net5.0\ref\feladatka.dll
+H:\214szft\aszmo\vizsgafeladaattokoa\2022okt\feladatka\feladatka\bin\Debug\net5.0\feladatka.pdb
+H:\214szft\aszmo\vizsgafeladaattokoa\2022okt\feladatka\feladatka\obj\Debug\net5.0\feladatka.csprojAssemblyReference.cache
+H:\214szft\aszmo\vizsgafeladaattokoa\2022okt\feladatka\feladatka\obj\Debug\net5.0\feladatka.GeneratedMSBuildEditorConfig.editorconfig
+H:\214szft\aszmo\vizsgafeladaattokoa\2022okt\feladatka\feladatka\obj\Debug\net5.0\feladatka.AssemblyInfoInputs.cache
+H:\214szft\aszmo\vizsgafeladaattokoa\2022okt\feladatka\feladatka\obj\Debug\net5.0\feladatka.AssemblyInfo.cs
+H:\214szft\aszmo\vizsgafeladaattokoa\2022okt\feladatka\feladatka\obj\Debug\net5.0\feladatka.csproj.CoreCompileInputs.cache
+H:\214szft\aszmo\vizsgafeladaattokoa\2022okt\feladatka\feladatka\obj\Debug\net5.0\feladatka.dll
+H:\214szft\aszmo\vizsgafeladaattokoa\2022okt\feladatka\feladatka\obj\Debug\net5.0\ref\feladatka.dll
+H:\214szft\aszmo\vizsgafeladaattokoa\2022okt\feladatka\feladatka\obj\Debug\net5.0\feladatka.pdb
+H:\214szft\aszmo\vizsgafeladaattokoa\2022okt\feladatka\feladatka\obj\Debug\net5.0\feladatka.genruntimeconfig.cache

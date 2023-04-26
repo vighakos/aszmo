@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vighakos.TURR\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vighakos.TURR\\.nuget\\packages"
+    ]
+  }
+}

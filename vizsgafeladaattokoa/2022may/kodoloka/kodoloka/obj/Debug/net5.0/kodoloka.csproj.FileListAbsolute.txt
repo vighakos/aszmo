@@ -1,0 +1,16 @@
+H:\214szft\aszmo\vizsgafeladaattokoa\2022may\kodoloka\kodoloka\bin\Debug\net5.0\kodoloka.exe
+H:\214szft\aszmo\vizsgafeladaattokoa\2022may\kodoloka\kodoloka\bin\Debug\net5.0\kodoloka.deps.json
+H:\214szft\aszmo\vizsgafeladaattokoa\2022may\kodoloka\kodoloka\bin\Debug\net5.0\kodoloka.runtimeconfig.json
+H:\214szft\aszmo\vizsgafeladaattokoa\2022may\kodoloka\kodoloka\bin\Debug\net5.0\kodoloka.runtimeconfig.dev.json
+H:\214szft\aszmo\vizsgafeladaattokoa\2022may\kodoloka\kodoloka\bin\Debug\net5.0\kodoloka.dll
+H:\214szft\aszmo\vizsgafeladaattokoa\2022may\kodoloka\kodoloka\bin\Debug\net5.0\ref\kodoloka.dll
+H:\214szft\aszmo\vizsgafeladaattokoa\2022may\kodoloka\kodoloka\bin\Debug\net5.0\kodoloka.pdb
+H:\214szft\aszmo\vizsgafeladaattokoa\2022may\kodoloka\kodoloka\obj\Debug\net5.0\kodoloka.csprojAssemblyReference.cache
+H:\214szft\aszmo\vizsgafeladaattokoa\2022may\kodoloka\kodoloka\obj\Debug\net5.0\kodoloka.GeneratedMSBuildEditorConfig.editorconfig
+H:\214szft\aszmo\vizsgafeladaattokoa\2022may\kodoloka\kodoloka\obj\Debug\net5.0\kodoloka.AssemblyInfoInputs.cache
+H:\214szft\aszmo\vizsgafeladaattokoa\2022may\kodoloka\kodoloka\obj\Debug\net5.0\kodoloka.AssemblyInfo.cs
+H:\214szft\aszmo\vizsgafeladaattokoa\2022may\kodoloka\kodoloka\obj\Debug\net5.0\kodoloka.csproj.CoreCompileInputs.cache
+H:\214szft\aszmo\vizsgafeladaattokoa\2022may\kodoloka\kodoloka\obj\Debug\net5.0\kodoloka.dll
+H:\214szft\aszmo\vizsgafeladaattokoa\2022may\kodoloka\kodoloka\obj\Debug\net5.0\ref\kodoloka.dll
+H:\214szft\aszmo\vizsgafeladaattokoa\2022may\kodoloka\kodoloka\obj\Debug\net5.0\kodoloka.pdb
+H:\214szft\aszmo\vizsgafeladaattokoa\2022may\kodoloka\kodoloka\obj\Debug\net5.0\kodoloka.genruntimeconfig.cache
