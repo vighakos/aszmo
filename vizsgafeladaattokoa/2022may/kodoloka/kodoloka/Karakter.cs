@@ -19,7 +19,6 @@ namespace kodoloka
 
         public void Display()
         {
-            Console.WriteLine(Character);
             for (int row = 0; row < 7; row++)
             {
                 for (int col = 0; col < 4; col++)
@@ -35,6 +34,22 @@ namespace kodoloka
                 }
                 Console.WriteLine();
             }
+        }
+
+        public bool Felismer(Karakter felismerendo)
+        {
+            for (int row = 0; row < 7; row++)
+            {
+                for (int col = 0; col < 4; col++)
+                {
+                    if (Matrix[row, col] != felismerendo.Matrix[row, col])
+                    {
+                        return false;
+                    }
+                }
+            }
+
+            return true;
         }
     }
 }

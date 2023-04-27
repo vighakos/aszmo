@@ -9,9 +9,12 @@ namespace kodoloka
 {
     class FileReader
     {
-        static StreamReader read = new StreamReader("bank.txt");
-        public static List<Karakter> ReadFile()
+        static StreamReader read;
+
+        public static List<Karakter> ReadFile(string filename)
         {
+            read = new StreamReader(filename);
+
             List<Karakter> datas = new List<Karakter>();
 
             try

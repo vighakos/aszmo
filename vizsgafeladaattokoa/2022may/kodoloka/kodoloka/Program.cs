@@ -6,14 +6,38 @@ namespace kodoloka
 {
     class Program
     {
-        static List<Karakter> characters = FileReader.ReadFile();
+        static List<Karakter> characters = FileReader.ReadFile("bank.txt");
         static void Main(string[] args)
         {
             _5feladat();
             _6feladat();
-
+            _8feladat();
 
             Console.ReadKey();
+        }
+
+        private static void _8feladat()
+        {
+            List<Karakter> dekodolando = FileReader.ReadFile("dekodol.txt");
+
+            Console.WriteLine("9. feladat: Dekódolás");
+            foreach (Karakter item in dekodolando)
+            {
+                Console.Write(Dekodol(item));
+            }
+        }
+
+        private static string Dekodol(Karakter item)
+        {
+            foreach (Karakter karakter in characters)
+            {
+                if (karakter.Felismer(item))
+                {
+                    return karakter.Character;
+                }
+            }
+
+            return "?";
         }
 
         private static void _6feladat()
